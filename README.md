@@ -1,5 +1,5 @@
 # 💫 About Me:
-Problem-solving mindset, data science enthusiast and web developer<br> currently pursuing a BSc. in Computer Science and Information Technology (CSIT).
+Problem-solving mindset, AI/ML enthusiast and web developer<br> currently pursuing a BSc. in Computer Science and Information Technology (CSIT).
 
 
 ## 🌐 Socials:
