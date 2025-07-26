@@ -30,5 +30,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-- name: Print done message
-  run: echo "Snake animation generated!"
+      - name: Print done message
+        run: echo "Snake animation generated!"
