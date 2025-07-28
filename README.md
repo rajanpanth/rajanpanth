@@ -14,28 +14,36 @@
 <img align="right" alt="Coding GIF" width="125" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
  [//]: <> ( <img align="right" alt="Coding GIF" width="150" src="https://github.com/user-attachments/assets/f26f8e99-89e2-46c9-b87e-9e5e4d42a03b"/>)
-# 💫 About Me:
+# 🌟 About Me:
 Problem-solving mindset, AI/ML enthusiast and web developer<br> currently pursuing a BSc. in Computer Science and Information Technology (CSIT).
 
 <div align="center">
   
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+about+Web+Development;Open+Source+Contributer;Graphic+Designer;Problem+Solver!)](https://git.io/typing-svg)
+###  Frontend Developer | Problem Solver | 🤖 AI Enthusiast | Chess Player
 
-  </div>
-  
-  <div align="center">
-   
-   ![Profile Views](https://komarev.com/ghpvc/?username=rajanpanth&label=Profile%20views&color=36BCF7&style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Passionate+about+Web+Development;Open+Source+Contributer;Graphic+Designer;Problem+Solver!)](https://git.io/typing-svg)
 
-  </div>
+</div>
+
+
 
 
 
 ## 🌐 Socials:
+
+<div align="center">
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rajan.pantha.7583) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rajanpantha1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajan-pantha-0777122a7/)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rajan_panth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pantharajan0@gmail.com) 
 
-# 💻 Tech Stack (Languages and Tools):
+   ![Profile Views](https://komarev.com/ghpvc/?username=rajanpanth&label=Profile%20views&color=brightgreen&style=for-the-badge)
+</div>
+
+
+---
+
+### 🛠️ Tech Stack
+
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="blank" rel="noopener noreferrer">
