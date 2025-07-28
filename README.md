@@ -31,4 +31,6 @@ Problem-solving mindset, AI/ML enthusiast and web developer<br> currently pursui
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 </div>
+
+![snake gif](https://github.com/rajanpanth/rajanpanth/blob/output/github-snake-dark.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
