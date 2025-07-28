@@ -1,3 +1,19 @@
+ [//]: <> ( <h2 align="center">Hi 👋, I'm Rajan Pantha</h2>)
+ [//]: <> ( <h3 align="center">Frontend Developer from Nepal</h3> )
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1600">
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rajan+Pantha!;" />
+</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fuyalasmit&label=Profile%20views&color=0e75b6&style=flat" alt="fuyalasmit" /> </p> 
+
+<img align="right" alt="Coding GIF" width="125" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+
+ [//]: <> ( <img align="right" alt="Coding GIF" width="150" src="https://github.com/user-attachments/assets/f26f8e99-89e2-46c9-b87e-9e5e4d42a03b"/>)
 # 💫 About Me:
 Problem-solving mindset, AI/ML enthusiast and web developer<br> currently pursuing a BSc. in Computer Science and Information Technology (CSIT).
 
