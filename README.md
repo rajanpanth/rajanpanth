@@ -19,14 +19,17 @@ Problem-solving mindset, AI/ML enthusiast and web developer<br> currently pursui
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+about+Web+Development;Open+Source+Contributer;Graphic+Designer;Problem+Solver!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+about+Web+Development;Open+Source+Contributer;Graphic+Designer;Problem+Solver!)](https://git.io/typing-svg)
+
+  </div>
   
   <div align="center">
    
    ![Profile Views](https://komarev.com/ghpvc/?username=rajanpanth&label=Profile%20views&color=36BCF7&style=for-the-badge)
 
   </div>
-</div>
+
 
 
 ## 🌐 Socials:
