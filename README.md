@@ -64,17 +64,11 @@ Problem-solving mindset, AI/ML enthusiast and web developer<br> currently pursui
 </p>
 
 <p align="center">
-  <a href="https://www.arduino.cc/" target="blank">
-    <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" />
-  </a>
   <a href="https://html.spec.whatwg.org/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="bootstrap" />
   </a>
   <a href="https://www.w3schools.com/css/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=css" alt="css3" />
-  </a>
-  <a href="https://expressjs.com" target="blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" alt="express" />
   </a>
   <a href="https://git-scm.com/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="git" />
@@ -91,12 +85,7 @@ Problem-solving mindset, AI/ML enthusiast and web developer<br> currently pursui
   <a href="https://reactjs.org/" target="blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="react" />
   </a>
-  <a href="https://tailwindcss.com/" target="blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />
-  </a>
-   <a href="https://www.docker.com/" target="blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker" alt="tailwind" />
-  </a>
+
 </p>
 
 # 📊 GitHub Stats:
