@@ -91,6 +91,7 @@ Problem-solving mindset, AI/ML enthusiast and web developer<br> currently pursui
 # 📊 GitHub Stats:
 
 <p align="center"> <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=rajanpanth&show_icons=true&locale=en&layout=compact&border_radius=10&theme=tokyonight" alt="rajanpanth" /> </p>
+
  <p align="center"> <img width=480 src="https://github-readme-streak-stats.herokuapp.com/?user=rajanpanth&border_radius=10&theme=tokyonight" alt="rajanpanth" /> </p>
 
 ---
