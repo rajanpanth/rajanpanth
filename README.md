@@ -90,15 +90,43 @@ Problem-solving mindset, AI/ML enthusiast and web developer<br> currently pursui
 
 # 📊 GitHub Stats:
 
-<p align="center"> <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=rajanpanth&show_icons=true&locale=en&layout=compact&border_radius=10&theme=tokyonight" alt="rajanpanth" /> </p>
 
- <p align="center"> <img width=480 src="https://github-readme-streak-stats.herokuapp.com/?user=rajanpanth&border_radius=10&theme=tokyonight" alt="rajanpanth" /> </p>
+<!-- stats -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br />
+<p align=center>
+<!-- first row -->
+  <div align=center>
+  <!-- streak stats -->
+    <a href="https://github.com/rajanpanth/github-readme-streak-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=rajanpanth&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=rajanpanth&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=rajanpanth&theme=default&border=61dafb" alt="rajan's streak stats" />
+      </picture>
+    </a>
+  <!-- github stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rajanpanth&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=rajanpanth&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=rajanpanth&show_icons=true&theme=default&border_color=61dafb" alt="rajan's github stats" />
+      </picture>
+    </a>
+  </div>
+  <!-- spaces -->
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rajanpanth&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rajanpanth&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajanpanth&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="rajan's contribution graph" />
+    </picture>
+  </a>
+</p>
 
----
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
-</div>
-
+<hr />
 
 <div align="center">
 
