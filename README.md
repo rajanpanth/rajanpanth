@@ -15,7 +15,7 @@
 
  [//]: <> ( <img align="right" alt="Coding GIF" width="150" src="https://github.com/user-attachments/assets/f26f8e99-89e2-46c9-b87e-9e5e4d42a03b"/>)
 # 🌟 About Me:
-Problem-solving mindset, AI/ML enthusiast and web developer<br> currently pursuing a BSc. in Computer Science and Information Technology (CSIT).
+Problem-solving mindset, WEB3 enthusiast and web developer<br> currently pursuing a BSc. in Computer Science and Information Technology (CSIT).
 
 <div align="center">
   
