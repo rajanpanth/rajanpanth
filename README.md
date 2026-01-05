@@ -3,7 +3,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1600">
+
 
 <!-- <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Welcome+to+my+GitHub+Profile;" />
@@ -107,11 +107,11 @@ Problem-solving mindset, AI/ML enthusiast and web developer<br> currently pursui
     </a>
   <!-- github stats -->
 <!-- GitHub Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
   <img align="right" width="390"
     src="https://github-readme-stats.vercel.app/api?username=rajanpanth&show_icons=true&count_private=true&theme=radical&hide_border=true"
     alt="Rajan's GitHub Stats" />
-</a>
+</a> -->
 
 
   <!-- spaces -->
