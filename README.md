@@ -20,7 +20,7 @@ Problem-solving mindset, WEB3 enthusiast and web developer<br> currently pursuin
 <div align="center">
   
 
-###  Frontend Developer | Problem Solver | 🤖 AI Enthusiast | Chess Player
+###  Web Developer | WEB3 Enthusiast | Graphic Designer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Passionate+about+Web+Development;Open+Source+Contributer;Graphic+Designer;Problem+Solver!)](https://git.io/typing-svg)
 
